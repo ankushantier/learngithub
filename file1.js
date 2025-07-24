@@ -1,9 +1,3 @@
-const sum = (a, b) => {
-    return a + b;
-}
+// work of first person done at v:1.0
 
-console.log(sum(1, 2))
-const diff = (a, b) => {
-    return a - b
-}
-console.log(diff(4, 3))
+// 10th pass
